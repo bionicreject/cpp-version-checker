@@ -1,4 +1,4 @@
-**cpp-version-checker**
+# C++ Version Checker
 
 A simple C++ program to determine the C++ standard version supported by your compiler.
 
